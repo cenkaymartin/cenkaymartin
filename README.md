@@ -23,4 +23,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cenkaymartin&" alt="cenkaymartin" /></p>
 
-![snake gif](https://github.com/cenkaymartin/cenkaymartin/blob/output/github-contribution-grid-snake.gif)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cenkaymartin/cenkaymartin/output/github-contribution-grid-snake-dark.svg" width=800>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cenkaymartin/cenkaymartin/output/github-contribution-grid-snake.svg" width=800>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/cenkaymartin/cenkaymartin/output/github-contribution-grid-snake.svg">
+</picture>
