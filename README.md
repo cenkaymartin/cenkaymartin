@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I'm Cenkay Martin from Türkiye.<br><br>- 💻 I’m interested in software, technology and computers.<br>- 📚 I'm currently learning JavaScript<br> </p>
+<p align="left">I'm Cenkay Martin from Türkiye.<br><br>- 💻 I’m interested in software, technology and computers.<br>- 📚 I'm currently learning JavaScript.<br> </p>
 
 ###
 
