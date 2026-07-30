@@ -21,13 +21,7 @@
 ###
 
 <div align="left">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" height="40" alt="java logo"  />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" height="40" alt="python logo"  />
   <img width="12" />
 </div>
 
